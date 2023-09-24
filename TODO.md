@@ -1,0 +1,11 @@
+- [x] Project setup
+- [ ] Generate map boundaries
+- [ ] Add pacman with movement
+- [ ] Add collision detection
+- [ ] Swap boundaries with images
+- [ ] Generate pellets
+- [ ] Add score
+- [ ] Create ghost
+- [ ] Create power-up
+- [ ] Add win condition
+- [ ] Pacman chomp animation
