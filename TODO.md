@@ -1,5 +1,5 @@
 - [x] Project setup
-- [ ] Generate map boundaries
+- [x] Generate map boundaries
 - [ ] Add pacman with movement
 - [ ] Add collision detection
 - [ ] Swap boundaries with images
